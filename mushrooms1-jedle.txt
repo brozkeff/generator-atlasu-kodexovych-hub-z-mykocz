@@ -1,0 +1,47 @@
+  - Bedla vysoká - [[https://www.myko.cz/myko-atlas/Macrolepiota-procera/|Macrolepiota procera]] - jen mladé plodnice
+  - Čirůvka dvoubarvá - [[https://www.myko.cz/myko-atlas/Lepista-personata/|Lepista personata]]
+  - Čirůvka fialová - [[https://www.myko.cz/myko-atlas/Lepista-nuda/|Lepista nuda]]
+  - Čirůvka havelka - [[https://www.myko.cz/myko-atlas/Tricholoma-portentosum/|Tricholoma portentosum]]
+  - Čirůvka májovka - [[https://www.myko.cz/myko-atlas/Calocybe-gambosa/|Calocybe gambosa]]
+  - Deštice chřapáčová - [[https://www.myko.cz/myko-atlas/Gyromitra-perlata/|Gyromitra perlata]]
+  - Hlíva plicní - [[https://www.myko.cz/myko-atlas/Pleurotus-pulmonarius/|Pleurotus pulmonarius]]
+  - Hlíva ústřičná - [[https://www.myko.cz/myko-atlas/Pleurotus-ostreatus/|Pleurotus ostreatus]]
+  - Hřib dubový - [[https://www.myko.cz/myko-atlas/Boletus-reticulatus/|Boletus reticulatus]]
+  - Hřib dutonohý - [[https://www.myko.cz/myko-atlas/Boletinus-cavipes/|Boletinus cavipes]]
+  - Hřib hnědý - [[https://www.myko.cz/myko-atlas/Imleria-badia/|Imleria badia]]
+  - Hřib koloděj - [[https://www.myko.cz/myko-atlas/Suillellus-luridus/|Suillellus luridus]]
+  - Hřib kovář - [[https://www.myko.cz/myko-atlas/Neoboletus-luridiformis/|Neoboletus luridiformis]]
+  - Hřib plstnatý - [[https://www.myko.cz/myko-atlas/Xerocomus-subtomentosus/|Xerocomus subtomentosus]]
+  - Hřib sametový - [[https://www.myko.cz/myko-atlas/Xerocomellus-pruinatus/|Xerocomellus pruinatus]]
+  - Hřib smrkový - [[https://www.myko.cz/myko-atlas/Boletus-edulis/|Boletus edulis]]
+  - Klouzek bílý - [[https://www.myko.cz/myko-atlas/Suillus-placidus/|Suillus placidus]] - jen mladé plodnice
+  - Klouzek kravský - [[https://www.myko.cz/myko-atlas/Suillus-bovinus/|Suillus bovinus]] - jen mladé plodnice
+  - Klouzek obecný - [[https://www.myko.cz/myko-atlas/Suillus-luteus/|Suillus luteus]]
+  - Klouzek sličný - [[https://www.myko.cz/myko-atlas/Suillus-grevillei/|Suillus grevillei]]
+  - Klouzek slizký - [[https://www.myko.cz/myko-atlas/Suillus-viscidus/|Suillus viscidus]] - jen mladé plodnice
+  - Klouzek strakoš - [[https://www.myko.cz/myko-atlas/Suillus-variegatus/|Suillus variegatus]]
+  - Klouzek zrnitý - [[https://www.myko.cz/myko-atlas/Suillus-granulatus/|Suillus granulatus]]
+  - Kotrč kadeřavý - [[https://www.myko.cz/myko-atlas/Sparassis-crispa/|Sparassis crispa]]
+  - Kozák březový - [[https://www.myko.cz/myko-atlas/Leccinum-scabrum/|Leccinum scabrum]] - jen mladé plodnice
+  - Kozák habrový - [[https://www.myko.cz/myko-atlas/Leccinum-pseudoscabrum/|Leccinum pseudoscabrum]] - jen mladé plodnice
+  - Kozák topolový - [[https://www.myko.cz/myko-atlas/Leccinum-duriusculum/|Leccinum duriusculum]]
+  - Krásnopórka mlynářka - [[https://www.myko.cz/myko-atlas/Albatrellus-ovinus/|Albatrellus ovinus]] - jen mladé plodnice
+  - Krásnopórka žemlička - [[https://www.myko.cz/myko-atlas/Albatrellus-confluens/|Albatrellus confluens]] - jen mladé plodnice
+  - Křemenáč březový - [[https://www.myko.cz/myko-atlas/Leccinum-versipelle/|Leccinum versipelle]]
+  - Křemenáč osikový - [[https://www.myko.cz/myko-atlas/Leccinum-rufum/|Leccinum rufum]]
+  - Lišák ryšavý - [[https://www.myko.cz/myko-atlas/Hydnum-rufescens/|Hydnum rufescens]]
+  - Lišák zprohýbaný - [[https://www.myko.cz/myko-atlas/Hydnum-repandum/|Hydnum repandum]]
+  - Liška bledá - [[https://www.myko.cz/myko-atlas/Cantharellus-subpruinosus/|Cantharellus subpruinosus]]
+  - Liška nálevkovitá - [[https://www.myko.cz/myko-atlas/Craterellus-tubaeformis/|Craterellus tubaeformis]]
+  - Liška obecná - [[https://www.myko.cz/myko-atlas/Cantharellus-cibarius/|Cantharellus cibarius]]
+  - Ryzec pravý/borový - [[https://www.myko.cz/myko-atlas/Lactarius-deliciosus/|Lactarius deliciosus]]
+  - Ryzec smrkový - [[https://www.myko.cz/myko-atlas/Lactarius-deterrimus/|Lactarius deterrimus]]
+  - Slizák mazlavý - [[https://www.myko.cz/myko-atlas/Gomphidius-glutinosus/|Gomphidius glutinosus]]
+  - Sluka svraskalá - [[https://www.myko.cz/myko-atlas/Cortinarius-caperatus/|Cortinarius caperatus]]
+  - Smrž - [[https://www.myko.cz/myko-atlas/Morchella/|Morchella]] - všechny druhy
+  - Strmělka mlženka - [[https://www.myko.cz/myko-atlas/Clitocybe-nebularis/|Clitocybe nebularis]] - jen mladé plodnice
+  - Stroček trubkovitý - [[https://www.myko.cz/myko-atlas/Craterellus-cornucopioides/|Craterellus cornucopioides]]
+  - Špička obecná - [[https://www.myko.cz/myko-atlas/Marasmius-oreades/|Marasmius oreades]]
+  - Václavka hlíznatá - [[https://www.myko.cz/myko-atlas/Armillaria-gallica/|Armillaria gallica]] - pouze kloboučky bez třeňů
+  - Václavka obecná - [[https://www.myko.cz/myko-atlas/Armillaria-mellea/|Armillaria mellea]] - pouze kloboučky bez třeňů
+  - Václavka smrková - [[https://www.myko.cz/myko-atlas/Armillaria-ostoyae/|Armillaria ostoyae]] (solidipes) - pouze kloboučky bez třeňů
