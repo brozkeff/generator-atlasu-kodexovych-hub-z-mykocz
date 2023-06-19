@@ -2,8 +2,8 @@
   - Čirůvka odlišná - [[https://www.myko.cz/myko-atlas/Tricholoma-sejunctum/|Tricholoma sejunctum]]
   - Čirůvka sírožlutá - [[https://www.myko.cz/myko-atlas/Tricholoma-sulphureum/|Tricholoma sulphureum]]
   - Holubinka vrhavka - [[https://www.myko.cz/myko-atlas/Russula-emetica/|Russula emetica]]
-  - Hřib kříšť - [[https://www.myko.cz/myko-atlas/Boletus-calopus/|Boletus calopus]]
-  - Hřib satan - [[https://www.myko.cz/myko-atlas/Boletus-satanas/|Boletus satanas]]
+  - Hřib kříšť - [[https://www.myko.cz/myko-atlas/Caloboletus-calopus/|Caloboletus calopus]] (pův. Boletus calopus)
+  - Hřib satan - [[https://www.myko.cz/myko-atlas/Rubroboletus-satanas/|Rubroboletus satanas]] (pův. Boletus satanas)
   - Hřib žlučník - [[https://www.myko.cz/myko-atlas/Tylopilus-felleus/|Tylopilus felleus]]
   - Muchomůrka červená - [[https://www.myko.cz/myko-atlas/Amanita-muscaria/|Amanita muscaria]]
   - Muchomůrka jízlivá - [[https://www.myko.cz/myko-atlas/Amanita-virosa/|Amanita virosa]]
@@ -12,9 +12,9 @@
   - Muchomůrka zelená - [[https://www.myko.cz/myko-atlas/Amanita-phalloides/|Amanita phalloides]]
   - Muchomůrka zelená - odrůda bílá - [[https://www.myko.cz/myko-atlas/Amanita-phalloides-var-alba/|Amanita phalloides var. alba]]
   - Pečárka zápasná - [[https://www.myko.cz/myko-atlas/Agaricus-xanthodermus/|Agaricus xanthodermus]]
-  - Strmělka vosková - [[https://www.myko.cz/myko-atlas/Clitocybe-cerussata/|Clitocybe cerussata]]
+  - Strmělka vosková - [[https://www.myko.cz/myko-atlas/Clitocybe-cerussata/|Clitocybe cerussata]] (+ Clitocybe phylophila)
   - Třepenitka svazčitá - [[https://www.myko.cz/myko-atlas/Hypholoma-fasciculare/|Hypholoma fasciculare]]
   - Ucháč obecný - [[https://www.myko.cz/myko-atlas/Gyromitra-esculenta/|Gyromitra esculenta]]
-  - Vláknice načervenalá - [[https://www.myko.cz/myko-atlas/Inocybe-patouillardii/|Inocybe patouillardii]]
+  - Vláknice začervenalá - [[https://www.myko.cz/myko-atlas/Inocybe-erubescens/|Inocybe erubescens]] (pův. Inocybe patouillardii)
   - Závojenka olovová - [[https://www.myko.cz/myko-atlas/Entoloma-sinuatum/|Entoloma sinuatum]]
-  - Závojenka (zvonovka) jarní - [[https://www.myko.cz/myko-atlas/Entoloma-vernum/|Entoloma vernum]] (Nolanea vernum)
+  - Závojenka (zvonovka) jarní - [[https://www.myko.cz/myko-atlas/Entoloma-vernum/|Entoloma vernum]] (pův. Nolanea vernum)

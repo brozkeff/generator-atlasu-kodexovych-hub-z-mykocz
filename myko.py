@@ -40,10 +40,10 @@ args = parser.parse_args()
 verbose = args.verbose
 
 current_datetime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-script_version = "v2023-06-05"
+script_version = "v2023-06-19"
 script_name = "Skript na generování atlasu kodexových a jedovatých hub na mykologické zkoušky z myko.cz"
 script_author = "Martin Malec <martin@brozkeff.net> + ChatGPT. License: MIT"
-disclaimer = "Dokument vytvořil "+ script_name + " (Autor "+ script_author + ", "+ script_version +"), bez záruky!"
+disclaimer = "Dokument vytvořil "+ script_name + "  (Autor "+ script_author + ", "+ script_version +"), bez záruky!"
 
 print(script_name)
 print(script_author)
@@ -230,7 +230,7 @@ if user_input.lower() == 'y':
             f.write('\\centering\n')
             for filename in image_filenames:
                 if not filename.endswith('.bmp'):
-                    f.write('\\includegraphics[width=0.19\\textwidth]{' + filename + '}\n')
+                    f.write('\\includegraphics[width=0.245\\textwidth]{' + filename + '}\n')
             f.write('\\end{figure}\n')
             f.write('\\small\n')
 
@@ -297,7 +297,7 @@ print("Vytvářím master .tex soubor co spojí jednotlivé .tex soubory dohroma
 with open('master.tex', 'w') as f:
     f.write('\\documentclass[a4paper]{article}\n')
     f.write('\\usepackage{graphicx}\n')
-    f.write('\\usepackage[left=2cm, right=1cm, top=1cm, bottom=2cm]{geometry}\n')
+    f.write('\\usepackage[left=2cm, right=2cm, top=1cm, bottom=2cm]{geometry}\n')
     f.write('\\usepackage{fontspec}\n')
     f.write('\\setmainfont{' + usedfont + '}\n')
     f.write('\\usepackage{polyglossia}\n')
