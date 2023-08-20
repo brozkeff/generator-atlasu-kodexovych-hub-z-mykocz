@@ -59,6 +59,6 @@ Možná další nezkoumané závislosti. Testováno na Linux Mint 21 (Ubuntu 22.
 
 ## Licence
 
-**Licence skriptu:** MIT License
+**Licence skriptu:** MIT License - <https://opensource.org/license/mit/>
 
 **Varování:** texty a fotky z myko.cz jsou předmětem běžného copyrightu a distribuce hotových .tex souborů, .jpg fotek i vysázených atlasů v .pdf by patrně vyžadovala souhlas vlastníků práv k podkladům, které tento skript stahuje!
