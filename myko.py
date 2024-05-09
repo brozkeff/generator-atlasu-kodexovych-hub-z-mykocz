@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # encoding: utf-8
 
 """Skript na generování atlasu kodexových a jedovatých hub na mykologické zkoušky z myko.cz"""
@@ -40,7 +40,7 @@ args = parser.parse_args()
 verbose = args.verbose
 
 current_datetime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-script_version = "v2023-06-19"
+script_version = "v2024-05-09"
 script_name = "Skript na generování atlasu kodexových a jedovatých hub na mykologické zkoušky z myko.cz"
 script_author = "Martin Malec <martin@brozkeff.net> + ChatGPT. License: MIT"
 disclaimer = "Dokument vytvořil "+ script_name + "  (Autor "+ script_author + ", "+ script_version +"), bez záruky!"
@@ -125,6 +125,10 @@ if not os.path.exists('tex'):
     if verbose:
         print("Vytvořena složka tex/ pro jednotlivé .tex soubory hub.")
 
+if not os.path.exists('pdf'):
+    os.makedirs('pdf')
+    if verbose:
+        print("Vytvořena složka pdf/ pro výstupní PDF.")
 
 # Zobrazení seznamu hub v souborech mushrooms*.txt
 file_list = [filename for filename in os.listdir('.') if filename.startswith('mushrooms') and filename.endswith('.txt')]
@@ -345,7 +349,13 @@ os.system('xelatex master.tex')
 
 # Přejmenování výsledného PDF dle skupiny hub vybraných na začátku
 pdf_filename = 'master.pdf'
-new_filename = f"{slugify(subtitle)}.pdf"
+new_filename = f"pdf/{slugify(subtitle)}.pdf"
+
+if os.path.exists(new_filename):
+    print("Odstraňuji staré PDF.")
+    os.remove(new_filename)
+
+print("Přesouvám nové PDF do složky pdf/.")
 os.rename(pdf_filename, new_filename)
 
 print("Hotovo!")

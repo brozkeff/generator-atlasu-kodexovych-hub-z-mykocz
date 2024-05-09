@@ -49,7 +49,7 @@ Možná další nezkoumané závislosti. Testováno na Linux Mint 21 (Ubuntu 22.
 * Opětovné stahování a parsování HTML stránek do .tex souborů ve složce `tex/` lze přeskočit pokud už jsou všechny tyto .tex soubory správně vygenerované a je snahou jen vysázet celý dokument např. pomocí jiného fontu.
 * Nakonec se vytvoří master .tex soubor co určuje celkový vzhled sazby, velikost a typ fontu, začíná titulní stranou s názvem a pak vkládá za sebe všechny jednotlivé .tex soubory hub.
 * Tento .tex soubor je pak vysázen pomocí XeLaTeX do PDF (s ohledem na různé chyby v .tex souborech může být nutné xelatexu odklepnout drobné chyby, nebo manuálně některé .tex soubory opravit.
-* Nakonec je PDF přejmenováno dle na začátku zvolené kategorie hub.
+* Nakonec je PDF přejmenováno dle na začátku zvolené kategorie hub a přesunuto do složky pdf/.
 
 **Upozornění:** Skript je narychlo zbastlený v Pythonu3 vytvořený z větší části s asistencí ChatGPT. Není naprogramovaný hezky, ani objektově, proměnné jsou pojmenované všelikak, kód je špagetový, ale nějak fungoval na jednorázové vygenerování "atlasů hub" z webu myko.cz
 
